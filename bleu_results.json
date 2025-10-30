@@ -1,0 +1,1454 @@
+{
+  "Our Model": [
+    {
+      "eval_round": 1,
+      "score": 0.317
+    },
+    {
+      "eval_round": 2,
+      "score": 0.287
+    },
+    {
+      "eval_round": 3,
+      "score": 0.232
+    },
+    {
+      "eval_round": 4,
+      "score": 0.285
+    },
+    {
+      "eval_round": 5,
+      "score": 0.175
+    },
+    {
+      "eval_round": 6,
+      "score": 0.22
+    },
+    {
+      "eval_round": 7,
+      "score": 0.293
+    },
+    {
+      "eval_round": 8,
+      "score": 0.168
+    },
+    {
+      "eval_round": 9,
+      "score": 0.23
+    },
+    {
+      "eval_round": 10,
+      "score": 0.232
+    },
+    {
+      "eval_round": 11,
+      "score": 0.343
+    },
+    {
+      "eval_round": 12,
+      "score": 0.276
+    },
+    {
+      "eval_round": 13,
+      "score": 0.322
+    },
+    {
+      "eval_round": 14,
+      "score": 0.28
+    },
+    {
+      "eval_round": 15,
+      "score": 0.356
+    },
+    {
+      "eval_round": 16,
+      "score": 0.29
+    },
+    {
+      "eval_round": 17,
+      "score": 0.315
+    },
+    {
+      "eval_round": 18,
+      "score": 0.289
+    },
+    {
+      "eval_round": 19,
+      "score": 0.303
+    },
+    {
+      "eval_round": 20,
+      "score": 0.27
+    },
+    {
+      "eval_round": 21,
+      "score": 0.303
+    },
+    {
+      "eval_round": 22,
+      "score": 0.324
+    },
+    {
+      "eval_round": 23,
+      "score": 0.281
+    },
+    {
+      "eval_round": 24,
+      "score": 0.324
+    },
+    {
+      "eval_round": 25,
+      "score": 0.304
+    },
+    {
+      "eval_round": 26,
+      "score": 0.305
+    },
+    {
+      "eval_round": 27,
+      "score": 0.251
+    },
+    {
+      "eval_round": 28,
+      "score": 0.357
+    },
+    {
+      "eval_round": 29,
+      "score": 0.287
+    },
+    {
+      "eval_round": 30,
+      "score": 0.225
+    },
+    {
+      "eval_round": 31,
+      "score": 0.18
+    },
+    {
+      "eval_round": 32,
+      "score": 0.36
+    },
+    {
+      "eval_round": 33,
+      "score": 0.314
+    },
+    {
+      "eval_round": 34,
+      "score": 0.257
+    },
+    {
+      "eval_round": 35,
+      "score": 0.277
+    },
+    {
+      "eval_round": 36,
+      "score": 0.318
+    },
+    {
+      "eval_round": 37,
+      "score": 0.315
+    },
+    {
+      "eval_round": 38,
+      "score": 0.281
+    },
+    {
+      "eval_round": 39,
+      "score": 0.289
+    },
+    {
+      "eval_round": 40,
+      "score": 0.384
+    },
+    {
+      "eval_round": 41,
+      "score": 0.298
+    },
+    {
+      "eval_round": 42,
+      "score": 0.267
+    },
+    {
+      "eval_round": 43,
+      "score": 0.239
+    },
+    {
+      "eval_round": 44,
+      "score": 0.341
+    },
+    {
+      "eval_round": 45,
+      "score": 0.354
+    },
+    {
+      "eval_round": 46,
+      "score": 0.337
+    },
+    {
+      "eval_round": 47,
+      "score": 0.309
+    },
+    {
+      "eval_round": 48,
+      "score": 0.255
+    },
+    {
+      "eval_round": 49,
+      "score": 0.29
+    },
+    {
+      "eval_round": 50,
+      "score": 0.348
+    },
+    {
+      "eval_round": 51,
+      "score": 0.347
+    },
+    {
+      "eval_round": 52,
+      "score": 0.276
+    },
+    {
+      "eval_round": 53,
+      "score": 0.299
+    },
+    {
+      "eval_round": 54,
+      "score": 0.222
+    },
+    {
+      "eval_round": 55,
+      "score": 0.259
+    },
+    {
+      "eval_round": 56,
+      "score": 0.252
+    },
+    {
+      "eval_round": 57,
+      "score": 0.231
+    },
+    {
+      "eval_round": 58,
+      "score": 0.287
+    },
+    {
+      "eval_round": 59,
+      "score": 0.205
+    },
+    {
+      "eval_round": 60,
+      "score": 0.322
+    }
+  ],
+  "MDAgents": [
+    {
+      "eval_round": 1,
+      "score": 0.193
+    },
+    {
+      "eval_round": 2,
+      "score": 0.214
+    },
+    {
+      "eval_round": 3,
+      "score": 0.188
+    },
+    {
+      "eval_round": 4,
+      "score": 0.268
+    },
+    {
+      "eval_round": 5,
+      "score": 0.183
+    },
+    {
+      "eval_round": 6,
+      "score": 0.212
+    },
+    {
+      "eval_round": 7,
+      "score": 0.258
+    },
+    {
+      "eval_round": 8,
+      "score": 0.199
+    },
+    {
+      "eval_round": 9,
+      "score": 0.257
+    },
+    {
+      "eval_round": 10,
+      "score": 0.117
+    },
+    {
+      "eval_round": 11,
+      "score": 0.212
+    },
+    {
+      "eval_round": 12,
+      "score": 0.251
+    },
+    {
+      "eval_round": 13,
+      "score": 0.182
+    },
+    {
+      "eval_round": 14,
+      "score": 0.245
+    },
+    {
+      "eval_round": 15,
+      "score": 0.265
+    },
+    {
+      "eval_round": 16,
+      "score": 0.273
+    },
+    {
+      "eval_round": 17,
+      "score": 0.141
+    },
+    {
+      "eval_round": 18,
+      "score": 0.24
+    },
+    {
+      "eval_round": 19,
+      "score": 0.228
+    },
+    {
+      "eval_round": 20,
+      "score": 0.255
+    },
+    {
+      "eval_round": 21,
+      "score": 0.223
+    },
+    {
+      "eval_round": 22,
+      "score": 0.281
+    },
+    {
+      "eval_round": 23,
+      "score": 0.149
+    },
+    {
+      "eval_round": 24,
+      "score": 0.252
+    },
+    {
+      "eval_round": 25,
+      "score": 0.253
+    },
+    {
+      "eval_round": 26,
+      "score": 0.205
+    },
+    {
+      "eval_round": 27,
+      "score": 0.245
+    },
+    {
+      "eval_round": 28,
+      "score": 0.29
+    },
+    {
+      "eval_round": 29,
+      "score": 0.249
+    },
+    {
+      "eval_round": 30,
+      "score": 0.155
+    },
+    {
+      "eval_round": 31,
+      "score": 0.239
+    },
+    {
+      "eval_round": 32,
+      "score": 0.133
+    },
+    {
+      "eval_round": 33,
+      "score": 0.2
+    },
+    {
+      "eval_round": 34,
+      "score": 0.181
+    },
+    {
+      "eval_round": 35,
+      "score": 0.226
+    },
+    {
+      "eval_round": 36,
+      "score": 0.149
+    },
+    {
+      "eval_round": 37,
+      "score": 0.218
+    },
+    {
+      "eval_round": 38,
+      "score": 0.212
+    },
+    {
+      "eval_round": 39,
+      "score": 0.251
+    },
+    {
+      "eval_round": 40,
+      "score": 0.257
+    },
+    {
+      "eval_round": 41,
+      "score": 0.251
+    },
+    {
+      "eval_round": 42,
+      "score": 0.247
+    },
+    {
+      "eval_round": 43,
+      "score": 0.242
+    },
+    {
+      "eval_round": 44,
+      "score": 0.221
+    },
+    {
+      "eval_round": 45,
+      "score": 0.174
+    },
+    {
+      "eval_round": 46,
+      "score": 0.172
+    },
+    {
+      "eval_round": 47,
+      "score": 0.238
+    },
+    {
+      "eval_round": 48,
+      "score": 0.23
+    },
+    {
+      "eval_round": 49,
+      "score": 0.272
+    },
+    {
+      "eval_round": 50,
+      "score": 0.313
+    },
+    {
+      "eval_round": 51,
+      "score": 0.176
+    },
+    {
+      "eval_round": 52,
+      "score": 0.227
+    },
+    {
+      "eval_round": 53,
+      "score": 0.201
+    },
+    {
+      "eval_round": 54,
+      "score": 0.254
+    },
+    {
+      "eval_round": 55,
+      "score": 0.254
+    },
+    {
+      "eval_round": 56,
+      "score": 0.278
+    },
+    {
+      "eval_round": 57,
+      "score": 0.242
+    },
+    {
+      "eval_round": 58,
+      "score": 0.148
+    },
+    {
+      "eval_round": 59,
+      "score": 0.307
+    },
+    {
+      "eval_round": 60,
+      "score": 0.222
+    }
+  ],
+  "Claude 4": [
+    {
+      "eval_round": 1,
+      "score": 0.201
+    },
+    {
+      "eval_round": 2,
+      "score": 0.178
+    },
+    {
+      "eval_round": 3,
+      "score": 0.228
+    },
+    {
+      "eval_round": 4,
+      "score": 0.204
+    },
+    {
+      "eval_round": 5,
+      "score": 0.175
+    },
+    {
+      "eval_round": 6,
+      "score": 0.198
+    },
+    {
+      "eval_round": 7,
+      "score": 0.192
+    },
+    {
+      "eval_round": 8,
+      "score": 0.191
+    },
+    {
+      "eval_round": 9,
+      "score": 0.118
+    },
+    {
+      "eval_round": 10,
+      "score": 0.177
+    },
+    {
+      "eval_round": 11,
+      "score": 0.11
+    },
+    {
+      "eval_round": 12,
+      "score": 0.216
+    },
+    {
+      "eval_round": 13,
+      "score": 0.205
+    },
+    {
+      "eval_round": 14,
+      "score": 0.232
+    },
+    {
+      "eval_round": 15,
+      "score": 0.101
+    },
+    {
+      "eval_round": 16,
+      "score": 0.183
+    },
+    {
+      "eval_round": 17,
+      "score": 0.179
+    },
+    {
+      "eval_round": 18,
+      "score": 0.152
+    },
+    {
+      "eval_round": 19,
+      "score": 0.203
+    },
+    {
+      "eval_round": 20,
+      "score": 0.237
+    },
+    {
+      "eval_round": 21,
+      "score": 0.157
+    },
+    {
+      "eval_round": 22,
+      "score": 0.116
+    },
+    {
+      "eval_round": 23,
+      "score": 0.205
+    },
+    {
+      "eval_round": 24,
+      "score": 0.167
+    },
+    {
+      "eval_round": 25,
+      "score": 0.103
+    },
+    {
+      "eval_round": 26,
+      "score": 0.147
+    },
+    {
+      "eval_round": 27,
+      "score": 0.214
+    },
+    {
+      "eval_round": 28,
+      "score": 0.196
+    },
+    {
+      "eval_round": 29,
+      "score": 0.185
+    },
+    {
+      "eval_round": 30,
+      "score": 0.161
+    },
+    {
+      "eval_round": 31,
+      "score": 0.298
+    },
+    {
+      "eval_round": 32,
+      "score": 0.277
+    },
+    {
+      "eval_round": 33,
+      "score": 0.2
+    },
+    {
+      "eval_round": 34,
+      "score": 0.247
+    },
+    {
+      "eval_round": 35,
+      "score": 0.253
+    },
+    {
+      "eval_round": 36,
+      "score": 0.148
+    },
+    {
+      "eval_round": 37,
+      "score": 0.16
+    },
+    {
+      "eval_round": 38,
+      "score": 0.159
+    },
+    {
+      "eval_round": 39,
+      "score": 0.208
+    },
+    {
+      "eval_round": 40,
+      "score": 0.128
+    },
+    {
+      "eval_round": 41,
+      "score": 0.088
+    },
+    {
+      "eval_round": 42,
+      "score": 0.233
+    },
+    {
+      "eval_round": 43,
+      "score": 0.255
+    },
+    {
+      "eval_round": 44,
+      "score": 0.128
+    },
+    {
+      "eval_round": 45,
+      "score": 0.184
+    },
+    {
+      "eval_round": 46,
+      "score": 0.222
+    },
+    {
+      "eval_round": 47,
+      "score": 0.121
+    },
+    {
+      "eval_round": 48,
+      "score": 0.093
+    },
+    {
+      "eval_round": 49,
+      "score": 0.145
+    },
+    {
+      "eval_round": 50,
+      "score": 0.147
+    },
+    {
+      "eval_round": 51,
+      "score": 0.176
+    },
+    {
+      "eval_round": 52,
+      "score": 0.263
+    },
+    {
+      "eval_round": 53,
+      "score": 0.086
+    },
+    {
+      "eval_round": 54,
+      "score": 0.151
+    },
+    {
+      "eval_round": 55,
+      "score": 0.157
+    },
+    {
+      "eval_round": 56,
+      "score": 0.14
+    },
+    {
+      "eval_round": 57,
+      "score": 0.12
+    },
+    {
+      "eval_round": 58,
+      "score": 0.153
+    },
+    {
+      "eval_round": 59,
+      "score": 0.242
+    },
+    {
+      "eval_round": 60,
+      "score": 0.262
+    }
+  ],
+  "ChatGPT 4o": [
+    {
+      "eval_round": 1,
+      "score": 0.137
+    },
+    {
+      "eval_round": 2,
+      "score": 0.103
+    },
+    {
+      "eval_round": 3,
+      "score": 0.22
+    },
+    {
+      "eval_round": 4,
+      "score": 0.054
+    },
+    {
+      "eval_round": 5,
+      "score": 0.163
+    },
+    {
+      "eval_round": 6,
+      "score": 0.123
+    },
+    {
+      "eval_round": 7,
+      "score": 0.231
+    },
+    {
+      "eval_round": 8,
+      "score": 0.224
+    },
+    {
+      "eval_round": 9,
+      "score": 0.166
+    },
+    {
+      "eval_round": 10,
+      "score": 0.202
+    },
+    {
+      "eval_round": 11,
+      "score": 0.117
+    },
+    {
+      "eval_round": 12,
+      "score": 0.099
+    },
+    {
+      "eval_round": 13,
+      "score": 0.11
+    },
+    {
+      "eval_round": 14,
+      "score": 0.12
+    },
+    {
+      "eval_round": 15,
+      "score": 0.123
+    },
+    {
+      "eval_round": 16,
+      "score": 0.14
+    },
+    {
+      "eval_round": 17,
+      "score": 0.191
+    },
+    {
+      "eval_round": 18,
+      "score": 0.121
+    },
+    {
+      "eval_round": 19,
+      "score": 0.102
+    },
+    {
+      "eval_round": 20,
+      "score": 0.111
+    },
+    {
+      "eval_round": 21,
+      "score": 0.186
+    },
+    {
+      "eval_round": 22,
+      "score": 0.116
+    },
+    {
+      "eval_round": 23,
+      "score": 0.138
+    },
+    {
+      "eval_round": 24,
+      "score": 0.14
+    },
+    {
+      "eval_round": 25,
+      "score": 0.268
+    },
+    {
+      "eval_round": 26,
+      "score": 0.132
+    },
+    {
+      "eval_round": 27,
+      "score": 0.203
+    },
+    {
+      "eval_round": 28,
+      "score": 0.196
+    },
+    {
+      "eval_round": 29,
+      "score": 0.207
+    },
+    {
+      "eval_round": 30,
+      "score": 0.126
+    },
+    {
+      "eval_round": 31,
+      "score": 0.12
+    },
+    {
+      "eval_round": 32,
+      "score": 0.19
+    },
+    {
+      "eval_round": 33,
+      "score": 0.151
+    },
+    {
+      "eval_round": 34,
+      "score": 0.233
+    },
+    {
+      "eval_round": 35,
+      "score": 0.157
+    },
+    {
+      "eval_round": 36,
+      "score": 0.226
+    },
+    {
+      "eval_round": 37,
+      "score": 0.151
+    },
+    {
+      "eval_round": 38,
+      "score": 0.13
+    },
+    {
+      "eval_round": 39,
+      "score": 0.172
+    },
+    {
+      "eval_round": 40,
+      "score": 0.14
+    },
+    {
+      "eval_round": 41,
+      "score": 0.108
+    },
+    {
+      "eval_round": 42,
+      "score": 0.235
+    },
+    {
+      "eval_round": 43,
+      "score": 0.073
+    },
+    {
+      "eval_round": 44,
+      "score": 0.096
+    },
+    {
+      "eval_round": 45,
+      "score": 0.176
+    },
+    {
+      "eval_round": 46,
+      "score": 0.133
+    },
+    {
+      "eval_round": 47,
+      "score": 0.144
+    },
+    {
+      "eval_round": 48,
+      "score": 0.093
+    },
+    {
+      "eval_round": 49,
+      "score": 0.097
+    },
+    {
+      "eval_round": 50,
+      "score": 0.142
+    },
+    {
+      "eval_round": 51,
+      "score": 0.086
+    },
+    {
+      "eval_round": 52,
+      "score": 0.132
+    },
+    {
+      "eval_round": 53,
+      "score": 0.221
+    },
+    {
+      "eval_round": 54,
+      "score": 0.205
+    },
+    {
+      "eval_round": 55,
+      "score": 0.137
+    },
+    {
+      "eval_round": 56,
+      "score": 0.073
+    },
+    {
+      "eval_round": 57,
+      "score": 0.146
+    },
+    {
+      "eval_round": 58,
+      "score": 0.143
+    },
+    {
+      "eval_round": 59,
+      "score": 0.145
+    },
+    {
+      "eval_round": 60,
+      "score": 0.162
+    }
+  ],
+  "Gemini 2.5 Pro": [
+    {
+      "eval_round": 1,
+      "score": 0.072
+    },
+    {
+      "eval_round": 2,
+      "score": 0.198
+    },
+    {
+      "eval_round": 3,
+      "score": 0.151
+    },
+    {
+      "eval_round": 4,
+      "score": 0.099
+    },
+    {
+      "eval_round": 5,
+      "score": 0.118
+    },
+    {
+      "eval_round": 6,
+      "score": 0.136
+    },
+    {
+      "eval_round": 7,
+      "score": 0.018
+    },
+    {
+      "eval_round": 8,
+      "score": 0.106
+    },
+    {
+      "eval_round": 9,
+      "score": 0.134
+    },
+    {
+      "eval_round": 10,
+      "score": 0.145
+    },
+    {
+      "eval_round": 11,
+      "score": 0.161
+    },
+    {
+      "eval_round": 12,
+      "score": 0.129
+    },
+    {
+      "eval_round": 13,
+      "score": 0.194
+    },
+    {
+      "eval_round": 14,
+      "score": 0.187
+    },
+    {
+      "eval_round": 15,
+      "score": 0.166
+    },
+    {
+      "eval_round": 16,
+      "score": 0.119
+    },
+    {
+      "eval_round": 17,
+      "score": 0.098
+    },
+    {
+      "eval_round": 18,
+      "score": 0.182
+    },
+    {
+      "eval_round": 19,
+      "score": 0.014
+    },
+    {
+      "eval_round": 20,
+      "score": 0.15
+    },
+    {
+      "eval_round": 21,
+      "score": 0.137
+    },
+    {
+      "eval_round": 22,
+      "score": 0.105
+    },
+    {
+      "eval_round": 23,
+      "score": 0.125
+    },
+    {
+      "eval_round": 24,
+      "score": 0.043
+    },
+    {
+      "eval_round": 25,
+      "score": 0.126
+    },
+    {
+      "eval_round": 26,
+      "score": 0.152
+    },
+    {
+      "eval_round": 27,
+      "score": 0.082
+    },
+    {
+      "eval_round": 28,
+      "score": 0.056
+    },
+    {
+      "eval_round": 29,
+      "score": 0.095
+    },
+    {
+      "eval_round": 30,
+      "score": 0.103
+    },
+    {
+      "eval_round": 31,
+      "score": 0.075
+    },
+    {
+      "eval_round": 32,
+      "score": 0.1
+    },
+    {
+      "eval_round": 33,
+      "score": 0.081
+    },
+    {
+      "eval_round": 34,
+      "score": 0.127
+    },
+    {
+      "eval_round": 35,
+      "score": 0.055
+    },
+    {
+      "eval_round": 36,
+      "score": 0.151
+    },
+    {
+      "eval_round": 37,
+      "score": 0.05
+    },
+    {
+      "eval_round": 38,
+      "score": 0.042
+    },
+    {
+      "eval_round": 39,
+      "score": 0.181
+    },
+    {
+      "eval_round": 40,
+      "score": 0.128
+    },
+    {
+      "eval_round": 41,
+      "score": 0.133
+    },
+    {
+      "eval_round": 42,
+      "score": 0.195
+    },
+    {
+      "eval_round": 43,
+      "score": 0.201
+    },
+    {
+      "eval_round": 44,
+      "score": 0.053
+    },
+    {
+      "eval_round": 45,
+      "score": 0.116
+    },
+    {
+      "eval_round": 46,
+      "score": 0.143
+    },
+    {
+      "eval_round": 47,
+      "score": 0.153
+    },
+    {
+      "eval_round": 48,
+      "score": 0.065
+    },
+    {
+      "eval_round": 49,
+      "score": 0.06
+    },
+    {
+      "eval_round": 50,
+      "score": 0.075
+    },
+    {
+      "eval_round": 51,
+      "score": 0.046
+    },
+    {
+      "eval_round": 52,
+      "score": 0.083
+    },
+    {
+      "eval_round": 53,
+      "score": 0.061
+    },
+    {
+      "eval_round": 54,
+      "score": 0.086
+    },
+    {
+      "eval_round": 55,
+      "score": 0.186
+    },
+    {
+      "eval_round": 56,
+      "score": 0.107
+    },
+    {
+      "eval_round": 57,
+      "score": 0.161
+    },
+    {
+      "eval_round": 58,
+      "score": 0.184
+    },
+    {
+      "eval_round": 59,
+      "score": 0.005
+    },
+    {
+      "eval_round": 60,
+      "score": 0.143
+    }
+  ],
+  "GLM4.5": [
+    {
+      "eval_round": 1,
+      "score": 0.136
+    },
+    {
+      "eval_round": 2,
+      "score": 0.152
+    },
+    {
+      "eval_round": 3,
+      "score": 0.201
+    },
+    {
+      "eval_round": 4,
+      "score": 0.153
+    },
+    {
+      "eval_round": 5,
+      "score": 0.169
+    },
+    {
+      "eval_round": 6,
+      "score": 0.332
+    },
+    {
+      "eval_round": 7,
+      "score": 0.199
+    },
+    {
+      "eval_round": 8,
+      "score": 0.165
+    },
+    {
+      "eval_round": 9,
+      "score": 0.212
+    },
+    {
+      "eval_round": 10,
+      "score": 0.169
+    },
+    {
+      "eval_round": 11,
+      "score": 0.157
+    },
+    {
+      "eval_round": 12,
+      "score": 0.161
+    },
+    {
+      "eval_round": 13,
+      "score": 0.19
+    },
+    {
+      "eval_round": 14,
+      "score": 0.221
+    },
+    {
+      "eval_round": 15,
+      "score": 0.208
+    },
+    {
+      "eval_round": 16,
+      "score": 0.12
+    },
+    {
+      "eval_round": 17,
+      "score": 0.148
+    },
+    {
+      "eval_round": 18,
+      "score": 0.283
+    },
+    {
+      "eval_round": 19,
+      "score": 0.157
+    },
+    {
+      "eval_round": 20,
+      "score": 0.189
+    },
+    {
+      "eval_round": 21,
+      "score": 0.113
+    },
+    {
+      "eval_round": 22,
+      "score": 0.166
+    },
+    {
+      "eval_round": 23,
+      "score": 0.229
+    },
+    {
+      "eval_round": 24,
+      "score": 0.256
+    },
+    {
+      "eval_round": 25,
+      "score": 0.175
+    },
+    {
+      "eval_round": 26,
+      "score": 0.197
+    },
+    {
+      "eval_round": 27,
+      "score": 0.231
+    },
+    {
+      "eval_round": 28,
+      "score": 0.22
+    },
+    {
+      "eval_round": 29,
+      "score": 0.133
+    },
+    {
+      "eval_round": 30,
+      "score": 0.133
+    },
+    {
+      "eval_round": 31,
+      "score": 0.215
+    },
+    {
+      "eval_round": 32,
+      "score": 0.196
+    },
+    {
+      "eval_round": 33,
+      "score": 0.171
+    },
+    {
+      "eval_round": 34,
+      "score": 0.18
+    },
+    {
+      "eval_round": 35,
+      "score": 0.169
+    },
+    {
+      "eval_round": 36,
+      "score": 0.227
+    },
+    {
+      "eval_round": 37,
+      "score": 0.223
+    },
+    {
+      "eval_round": 38,
+      "score": 0.225
+    },
+    {
+      "eval_round": 39,
+      "score": 0.237
+    },
+    {
+      "eval_round": 40,
+      "score": 0.132
+    },
+    {
+      "eval_round": 41,
+      "score": 0.244
+    },
+    {
+      "eval_round": 42,
+      "score": 0.156
+    },
+    {
+      "eval_round": 43,
+      "score": 0.27
+    },
+    {
+      "eval_round": 44,
+      "score": 0.289
+    },
+    {
+      "eval_round": 45,
+      "score": 0.19
+    },
+    {
+      "eval_round": 46,
+      "score": 0.146
+    },
+    {
+      "eval_round": 47,
+      "score": 0.249
+    },
+    {
+      "eval_round": 48,
+      "score": 0.163
+    },
+    {
+      "eval_round": 49,
+      "score": 0.183
+    },
+    {
+      "eval_round": 50,
+      "score": 0.24
+    },
+    {
+      "eval_round": 51,
+      "score": 0.141
+    },
+    {
+      "eval_round": 52,
+      "score": 0.242
+    },
+    {
+      "eval_round": 53,
+      "score": 0.275
+    },
+    {
+      "eval_round": 54,
+      "score": 0.249
+    },
+    {
+      "eval_round": 55,
+      "score": 0.17
+    },
+    {
+      "eval_round": 56,
+      "score": 0.26
+    },
+    {
+      "eval_round": 57,
+      "score": 0.254
+    },
+    {
+      "eval_round": 58,
+      "score": 0.17
+    },
+    {
+      "eval_round": 59,
+      "score": 0.13
+    },
+    {
+      "eval_round": 60,
+      "score": 0.209
+    }
+  ]
+}
